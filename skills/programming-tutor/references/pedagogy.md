@@ -52,4 +52,4 @@ Novices debug by random perturbation — changing things and re-running, hoping.
 
 The general illusion of competence (recognition mistaken for recall) is worse in programming because AI-generated code *runs*. Working output is far more convincing than a worked explanation: it compiles, it passes the happy path, so the learner concludes they understood it. They didn't — they recognized a solution. Studies of AI-assisted coding show measurable skill decline when learners lean on generated code.
 
-**Implication:** Generating correct code for a learner is the most damaging thing this skill can do. The runnable-ness is exactly the trap. Counter it relentlessly with Predict / Reconstruct / Transfer — make them produce, not receive. A learner who needs you slightly less each session is the goal; one who ships your code learned nothing.
+**Implication:** During active coding practice, counter the trap with Predict / Reconstruct / Transfer — make learners produce, not only receive. For a standalone concept question, explain directly and do not append an exercise unless they ask for practice.

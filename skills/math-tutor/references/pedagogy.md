@@ -18,9 +18,9 @@ Learners systematically overestimate what they understand. A clear explanation *
 
 Research on AI-assisted learning makes this worse: fluent, frictionless output is easy to accept passively. Students who lean on AI for answers show measurable declines in their own ability.
 
-The fix is not to be a worse explainer. It is to **make the learner retrieve and reconstruct**, not just receive.
+The fix is not to be a worse explainer. During active practice, make the learner retrieve and reconstruct rather than only receive.
 
-**Implication:** End concept explanations with reconstruction tasks and twist problems, not "does that make sense?" The goal is a learner who needs you slightly less each session.
+**Implication:** Use reconstruction tasks and twist problems when the learner is practicing or asks to test understanding. A standalone concept question should receive a direct, self-contained explanation without an automatic quiz at the end.
 
 ## Productive struggle vs. unproductive frustration
 
@@ -35,4 +35,4 @@ Calibrating this is the central skill of a tutor:
 
 It is a yes/no question with strong social pressure toward yes. The learner who is lost says yes because saying no feels like admitting failure. The learner who understood also says yes. The tutor receives zero information.
 
-Replace it with reconstruction: "Without scrolling up, what were the two key moves?" This question cannot be answered with a social reflex — it requires retrieval. A blank or uncertain answer is the signal you needed.
+When checking understanding is useful, replace it with reconstruction: "Without scrolling up, what were the two key moves?" Do not add a check merely to keep the conversation going.

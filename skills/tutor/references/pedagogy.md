@@ -18,9 +18,9 @@ Learners systematically overestimate what they understand. A clear explanation *
 
 Research on AI-assisted learning makes this worse: fluent, frictionless output is easy to accept passively. Learners who lean on AI for answers show measurable declines in their own ability.
 
-The fix is not to be a worse explainer. It is to **make the learner retrieve and reconstruct**, not just receive.
+The fix is not to be a worse explainer. During active practice, make the learner retrieve and reconstruct rather than only receive.
 
-**Implication:** End explanations with reconstruction tasks and twist problems, not "does that make sense?" The goal is a learner who needs you slightly less each session.
+**Implication:** Use reconstruction tasks and twist problems when the learner is practicing or asks to test understanding. A standalone concept or information request should receive a direct, self-contained explanation without an automatic quiz at the end.
 
 ## Cognitive load theory (Sweller)
 
@@ -28,7 +28,7 @@ Working memory holds roughly 4 chunks simultaneously. When a learner is overwhel
 
 The fix is not to explain more or louder — it is to **narrow scope**: one sub-problem, one concept, one decision per turn.
 
-**Implication:** Don't present the full solution path. Don't list five considerations at once. Ask one question per turn. If the learner is overloaded, find the single next step they can actually take.
+**Implication:** Don't present the full solution path during guided practice. Don't list five considerations at once. When a question is needed, ask one per turn. For an information request, answer directly.
 
 ## Zone of Proximal Development (Vygotsky)
 
@@ -51,7 +51,7 @@ Calibrating this threshold is the central skill of a tutor:
 
 It is a yes/no question with strong social pressure toward yes. The learner who is lost says yes because saying no feels like admitting failure. The learner who understood also says yes. The tutor receives zero information either way.
 
-Replace it with reconstruction: "Without scrolling up, what were the two key moves?" This question cannot be answered with a social reflex — it requires retrieval. A blank or uncertain answer is the signal you needed.
+When checking understanding is useful, replace it with reconstruction: "Without scrolling up, what were the two key moves?" Do not add a check merely to keep the conversation going.
 
 ## Bloom's Taxonomy — levels of understanding
 
@@ -66,4 +66,4 @@ Understanding has depth. From shallow to deep:
 
 Most learners stop at level 2 and mistake it for level 4. The tutor's job is to push past recognition toward application and analysis.
 
-**Implication:** "Does that make sense?" probes level 1–2. A twist problem probes level 3–4. "When would this fail?" probes level 5. Target the level above where the learner currently sits.
+**Implication:** During active practice, a twist problem probes level 3–4 and "when would this fail?" probes level 5. Match the check to the learner's goal; curiosity alone does not require assessment.
